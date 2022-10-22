@@ -23,7 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		5CD3996D290296DF00434761 /* degiskenler */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = degiskenler; sourceTree = BUILT_PRODUCTS_DIR; };
+		5CD3996D290296DF00434761 /* BasicsSwift */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = BasicsSwift; sourceTree = BUILT_PRODUCTS_DIR; };
 		5CD39970290296DF00434761 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -41,7 +41,7 @@
 		5CD39964290296DF00434761 = {
 			isa = PBXGroup;
 			children = (
-				5CD3996F290296DF00434761 /* degiskenler */,
+				5CD3996F290296DF00434761 /* basics_swift */,
 				5CD3996E290296DF00434761 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -49,25 +49,25 @@
 		5CD3996E290296DF00434761 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				5CD3996D290296DF00434761 /* degiskenler */,
+				5CD3996D290296DF00434761 /* BasicsSwift */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		5CD3996F290296DF00434761 /* degiskenler */ = {
+		5CD3996F290296DF00434761 /* basics_swift */ = {
 			isa = PBXGroup;
 			children = (
 				5CD39970290296DF00434761 /* main.swift */,
 			);
-			path = degiskenler;
+			path = basics_swift;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		5CD3996C290296DF00434761 /* degiskenler */ = {
+		5CD3996C290296DF00434761 /* BasicsSwift */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 5CD39974290296DF00434761 /* Build configuration list for PBXNativeTarget "degiskenler" */;
+			buildConfigurationList = 5CD39974290296DF00434761 /* Build configuration list for PBXNativeTarget "BasicsSwift" */;
 			buildPhases = (
 				5CD39969290296DF00434761 /* Sources */,
 				5CD3996A290296DF00434761 /* Frameworks */,
@@ -77,9 +77,9 @@
 			);
 			dependencies = (
 			);
-			name = degiskenler;
+			name = BasicsSwift;
 			productName = degiskenler;
-			productReference = 5CD3996D290296DF00434761 /* degiskenler */;
+			productReference = 5CD3996D290296DF00434761 /* BasicsSwift */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
@@ -97,7 +97,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 5CD39968290296DF00434761 /* Build configuration list for PBXProject "degiskenler" */;
+			buildConfigurationList = 5CD39968290296DF00434761 /* Build configuration list for PBXProject "BasicsSwift" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -110,7 +110,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				5CD3996C290296DF00434761 /* degiskenler */,
+				5CD3996C290296DF00434761 /* BasicsSwift */,
 			);
 		};
 /* End PBXProject section */
@@ -261,7 +261,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		5CD39968290296DF00434761 /* Build configuration list for PBXProject "degiskenler" */ = {
+		5CD39968290296DF00434761 /* Build configuration list for PBXProject "BasicsSwift" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				5CD39972290296DF00434761 /* Debug */,
@@ -270,7 +270,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		5CD39974290296DF00434761 /* Build configuration list for PBXNativeTarget "degiskenler" */ = {
+		5CD39974290296DF00434761 /* Build configuration list for PBXNativeTarget "BasicsSwift" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				5CD39975290296DF00434761 /* Debug */,
